@@ -1,0 +1,7 @@
+[package]
+name = "one_line_std_in_out_20190519"
+version = "0.1.0"
+authors = ["ytyaru <ytyaru@outlook.jp>"]
+edition = "2018"
+
+[dependencies]
